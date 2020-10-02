@@ -43,3 +43,5 @@
 This project follows the [MIT License](/LICENSE).
 
 ## SHOW SOME LOVE BY LEAVING A ⭐
+
+## HAVE A GOOD DAY.
